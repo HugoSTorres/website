@@ -1,4 +1,10 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "juicemia"
-theme = "base16"
+title = "juice"
+theme = "purehugo"
+
+[params]
+  twitterName = "_juicemia"
+  githubName = "HugoSTorres"
+  description = "software soliloquies"
+  hideShareOptions = true
