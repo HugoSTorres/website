@@ -7,6 +7,15 @@
 
         <nav class="nav">
             <ul class="nav-list">
+                <li class="nav-item">
+                    <a class="pure-button" href="{{ .Site.BaseURL }}/about">about</a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href="{{ .Site.BaseURL }}/post">blog</a>
+                </li>
+            </ul>
+
+            <ul class="nav-list">
                 {{ with .Site.Params.twitterName }}
                 <li class="nav-item">
                     <a class="pure-button" href="https://twitter.com/{{ . }}"><i class="fa fa-twitter"></i> twitter</a>
@@ -19,12 +28,6 @@
                 {{ end }}
                 <li class="nav-item">
                     <a class="pure-button" href="{{ .Site.BaseURL }}/index.xml"><i class="fa fa-rss"></i> rss</a>
-                </li>
-                <li class="nav-item">
-                    <a class="pure-button" href="{{ .Site.BaseURL }}/about">about</a>
-                </li>
-                <li class="nav-item">
-                    <a class="pure-button" href="{{ .Site.BaseURL }}/post">blog</a>
                 </li>
             </ul>
         </nav>
