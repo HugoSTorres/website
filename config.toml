@@ -5,6 +5,6 @@ theme = "purehugo"
 
 [params]
   twitterName = "_juicemia"
-  githubName = "HugoSTorres"
+  githubName = "juicemia"
   description = "software soliloquies"
   hideShareOptions = true
