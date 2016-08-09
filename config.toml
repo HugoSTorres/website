@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://juicemia.com"
 languageCode = "en-us"
 title = "juice"
 theme = "purehugo"
