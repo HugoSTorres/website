@@ -102,3 +102,7 @@ img {
         padding: 1em;
     }
 }
+
+blockquote > p {
+    font-style: italic;
+}
