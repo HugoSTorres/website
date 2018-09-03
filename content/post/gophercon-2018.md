@@ -1,7 +1,7 @@
 ---
 title: "My Gophercon 2018"
 date: 2018-09-02T15:50:10-04:00
-draft: true
+draft: false
 ---
 
 I've got some of things I want to write up about GopherCon this year.
@@ -10,13 +10,12 @@ First, it was great being able to get out to GopherCon again. It only gets
 better and better. Thanks to everybody who helped make it happen, including
 all the speakers.
 
-Now I'm not gonna lie, sometimes I question what can be seen as the "forced
-diversity" that's in the Go community.
+I'm kinda sad it's not gonna be in Denver next year. Denver is one of my
+favorite cities to visit. Great food, great beer and very chill people
+(that was true even before recreational weed became legal).
 
-I do believe that in extreme amounts it can be detrimental, but I didn't
-notice a thing while I was out there. I don't think quality is suffering
-because the Go community is consciously trying to include more people, and
-that's a very cool thing.
+Still, it was really cool to be able to catch up with old friends, meet new
+ones, and see what the world is doing.
 
 Another cool thing from this year, well at least for me anyways, is that I
 had the chance to give a lightning talk. It was the talk I gave at the Go
@@ -39,7 +38,7 @@ On my walk back to the hotel I remembered: it was about the allocator. I
 couldn't take notes because my laptop died at the beginning of his talk.
 
 The cherry on top of all this is that he's one of the nicest people I've had
-the pleasure of meeting out there.
+the pleasure of meeting out there. It made me feel that much worse.
 
 If you're reading this Eben, I'm really sorry :(
 
