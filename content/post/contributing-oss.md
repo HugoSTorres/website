@@ -1,7 +1,7 @@
 ---
 title: "Contributing to a Go Project"
 date: 2018-09-08T13:43:59-04:00
-draft: true
+draft: false
 author: juice
 ---
 
@@ -21,7 +21,7 @@ can pull the configuration from the environment.
 
 There's a catch: it doesn't look to the environment for the repo or the subpath.
 
-There's ways around it, but it would be really nice if it just got everything
+There are ways around it, but it would be really nice if it just got everything
 from the same place.
 
 Looks like this is a great chance to open a pull request.
