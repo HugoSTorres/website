@@ -292,7 +292,7 @@ ok    github.com/hashicorp/terraform/state/remote
 Just to be sure, I ran `make` again to see if the whole process worked and it
 did.
 
-I'm going to be a bit handwaivy with how I actually tested this feature because
+I'm going to be a bit handwavy with how I actually tested this feature because
 it's a pain to demonstrate. Just take my word for it. I set all my environment
 variables and ran `terraform init` and it worked.
 
