@@ -2,6 +2,7 @@
 title: "que vuelta"
 date: 2018-09-02T14:50:03-04:00
 draft: false
+author: juice
 ---
 
 I'm Hugo. Some people call me Juice.

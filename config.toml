@@ -1,7 +1,10 @@
 baseURL = "https://juicemia.com/"
 languageCode = "en-us"
-title = "8-bit bites"
+title = "juice"
 theme = "hello-friend"
+
+[params]
+    subtitle = "8-bit bytes"
 
 [params.logo]
     logoText = "juice #"
