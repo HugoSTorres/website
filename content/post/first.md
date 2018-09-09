@@ -2,6 +2,7 @@
 title: "Starting Over"
 date: 2018-09-02T13:10:59-04:00
 draft: false
+author: juice
 ---
 
 I'm starting over.

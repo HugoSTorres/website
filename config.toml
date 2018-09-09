@@ -1,15 +1,19 @@
 baseURL = "https://juicemia.com/"
 languageCode = "en-us"
-title = "8-BIT BITES"
-theme = "retrofulhugo"
+title = "8-bit bites"
+theme = "hello-friend"
 
-[Author]
-    handle = "juice"
-    name = "Hugo"
-    github = "juicemia"
-    twitter = "_juicemia"
+[params.logo]
+    logoText = "juice #"
 
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 2
+
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/juicemia"
+
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/@_juicemia"

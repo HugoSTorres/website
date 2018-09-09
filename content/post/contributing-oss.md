@@ -2,6 +2,7 @@
 title: "Contributing to a Go Project"
 date: 2018-09-08T13:43:59-04:00
 draft: true
+author: juice
 ---
 
 I've been using Terraform to spin up infrastructure.

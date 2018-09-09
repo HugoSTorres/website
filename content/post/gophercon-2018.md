@@ -2,6 +2,7 @@
 title: "My Gophercon 2018"
 date: 2018-09-02T15:50:10-04:00
 draft: false
+author: juice
 ---
 
 I've got some of things I want to write up about GopherCon this year.
