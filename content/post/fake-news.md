@@ -26,10 +26,10 @@ Seriously?
 Look. There's no doubt we need trustworthy news sources, but
 **the internet should not be that news source.**
 
-The internet is for platforms where _everybody_ can connect and share.
+The internet is for _platforms_ where _everybody_ can connect and share.
 
-Sometimes you will read things on the internet that are true. You'll look up
-Benjamin Franklin on Wikipedia and probably be okay with believing what you read.
+Sometimes you will read things on the internet that are true. You can look up
+Benjamin Franklin on Wikipedia and probably be okay believing what you read.
 
 The vast majority of the time, you will read things on the internet that are **false**.
 
