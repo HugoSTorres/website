@@ -1,7 +1,6 @@
 ---
 title: "WTF Is Fake News"
 date: 2018-09-30T11:18:57-04:00
-draft: true
 author: juice
 ---
 
