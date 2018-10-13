@@ -17,7 +17,7 @@ Take, for example, Alex Jones.
 I loved watching Alex Jones. I've soaked at least two pairs of pants while
 laughing at him.
 
-Now, I can't watch Alex Jones anymore, because some people actually thought
+Now, I can't watch Alex Jones anymore, because some people actually think
 the shit he says is _real_.
 
 Seriously?
